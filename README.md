@@ -47,7 +47,20 @@
 
 </ul>
 
+</br>
+<p><strong>Academic Papers :</strong></p>
+<p><strong>_________________________________________________________________________________________________________________________</strong></p>
 
+<ul>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Michio-Kaku-Books/blob/master/mik(22).pdf" style="text-decoration:none;">A Note on the Stability of Quantum Super Membranes </a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Michio-Kaku-Books/blob/master/mik(23).pdf" style="text-decoration:none;">Ultra-Violet Behavior of Bosonic Quantum Membranes</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Michio-Kaku-Books/blob/master/mik(24).pdf" style="text-decoration:none;">Sub Critical Closed String Field Theory in D Less Than 26</a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Michio-Kaku-Books/blob/master/mik(25).pdf" style="text-decoration:none;">How Unstable are Fundamental Quantum Super Membranes?</a></b></li>  
+ 
+ </ul>
 
 
 
