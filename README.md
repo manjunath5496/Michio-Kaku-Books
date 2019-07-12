@@ -1,5 +1,5 @@
 <p><strong>Books:</strong></p>
-<p><strong>_________________________________________________________________________________________________________________________</strong></p>
+<hr>
 <ul>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Michio-Kaku-Books/blob/master/mik(1).rar" style="text-decoration:none;">Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the 10th Dimension </a></b></li>
   
@@ -22,7 +22,7 @@
 
 </br>
 <p><strong>Articles:</strong></p>
-<p><strong>_________________________________________________________________________________________________________________________</strong></p>
+<hr>
 
 <ul>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Michio-Kaku-Books/blob/master/mik(11).pdf" style="text-decoration:none;">Reading the Mind of God </a></b></li>
@@ -49,7 +49,7 @@
 
 </br>
 <p><strong>Academic Papers :</strong></p>
-<p><strong>_________________________________________________________________________________________________________________________</strong></p>
+<hr>
 
 <ul>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Michio-Kaku-Books/blob/master/mik(22).pdf" style="text-decoration:none;">A Note on the Stability of Quantum Super Membranes </a></b></li>
