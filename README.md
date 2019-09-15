@@ -48,7 +48,7 @@
 </ul>
 
 </br>
-<p><strong>Academic Papers :</strong></p>
+<p><strong>Academic Papers:</strong></p>
 <hr>
 
 <ul>
